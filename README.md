@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SubhrajyotiGoswami226
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning Python.
+- 🌱 Rookie level Python developer.
 - 💞️ I’m looking to collaborate with anyone that will help me to develop my programming knowledge.
-- 📫 How to reach me Email:   goswamisam687@gmail.com
+- 📫 How to reach me Email:   subhrajyotigoswami563@gmail.com
                      Discord: Subhrajyoti#2183
 
 <!---
