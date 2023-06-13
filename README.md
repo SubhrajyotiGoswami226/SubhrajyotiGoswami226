@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubhrajyotiGoswami226
-- 👀 I’m interested in Cyber Security via Python.
+- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate with anyone that will help me to develop my programming knowledge.
 - 📫 How to reach me Email:   goswamisam687@gmail.com
